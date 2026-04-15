@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+timm
+opencv-python
+librosa
+numpy
+pandas
+scikit-learn
+tqdm
+fastapi
+uvicorn
+gradio
+python-multipart
