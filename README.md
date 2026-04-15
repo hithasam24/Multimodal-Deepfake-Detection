@@ -7,6 +7,7 @@ A multimodal deepfake detection system that combines visual and audio signals fo
 - SAFF: Synchronization-Aware Feature Fusion
 - CM-GAN: Cross-Modal Graph Attention Network
 - Deployment via FastAPI and Gradio
+- Dataset used: https://www.kaggle.com/datasets/elin75/localized-audio-visual-deepfake-dataset-lav-df
 
 ## Features
 - Audio-video deepfake detection
