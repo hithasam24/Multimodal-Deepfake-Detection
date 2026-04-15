@@ -1,4 +1,6 @@
 # Multimodal Deepfake Detection
+Description: Multimodal deepfake detection using PyTorch, SAFF, CM-GAN, FastAPI, and Gradio.
+Topics: pytorch, deep-learning, multimodal, deepfake-detection, fastapi, gradio, audio-visual
 
 A multimodal deepfake detection system that combines visual and audio signals for robust fake video detection. The project implements:
 
